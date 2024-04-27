@@ -8,7 +8,7 @@ The purpose of making this project is to showcase my depth of understanding of a
 
 As the project is purely different than the traditional projects available online, It won't give a feeling of the project being copied from somewhere else.
 
-### Use case
+### Usecase
 I believe, the project could be taken as a nice example to show case different concepts of applied deep learning such as - 
 
  - Using synthetic data for training
